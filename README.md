@@ -1,3 +1,3 @@
-git clone https://github.com/anadhelf/ig/
+git clone https://github.com/loexjr/igcok
 cd ig
-node flmauto.js
+node run.js
